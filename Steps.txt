@@ -1,0 +1,33 @@
+1) conda create -p venv python==3.8 -y
+
+2) conda activate venv/
+
+3) git init
+
+4) git remote add origin https://github.com/Akash0826/MLProjectStructure.git
+
+5) git add README.md
+
+6) git commit -m "first commit"
+
+7) git status
+
+8) git branch -M main
+
+9) git remote -v
+
+10) git config --global user.name "AKASH M"
+
+11) git config --global user.email "akash.au19@gmail.com"
+
+12) git push -u origin main
+
+13) Create .gitignore file directly in GitHub Repo by choosing the template as Python
+
+14) git pull for the .gitignore file
+
+15) Create setup.py and requirements.txt
+
+16) pip install -r requirements.txt
+
+17) Create a src folder with __init__.py empty file
